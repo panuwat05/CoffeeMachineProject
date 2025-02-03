@@ -1,0 +1,34 @@
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\bin\Debug\net8.0-windows\Coffee Machine.exe
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\bin\Debug\net8.0-windows\Coffee Machine.deps.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\bin\Debug\net8.0-windows\Coffee Machine.runtimeconfig.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\bin\Debug\net8.0-windows\Coffee Machine.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\bin\Debug\net8.0-windows\Coffee Machine.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.csproj.GenerateResource.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.AssemblyInfo.cs
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\refint\Coffee Machine.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee Machine.genruntimeconfig.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\ref\Coffee Machine.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee_Machine.CoffeeMachine.resources
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\obj\Debug\net8.0-windows\Coffee_Machine.Properties.Resources.resources
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\bin\Debug\net8.0-windows\Coffee Machine.exe
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\bin\Debug\net8.0-windows\Coffee Machine.deps.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\bin\Debug\net8.0-windows\Coffee Machine.runtimeconfig.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\bin\Debug\net8.0-windows\Coffee Machine.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\bin\Debug\net8.0-windows\Coffee Machine.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee_Machine.CoffeeMachine.resources
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee_Machine.Properties.Resources.resources
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.csproj.GenerateResource.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.AssemblyInfo.cs
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\refint\Coffee Machine.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\Coffee Machine.genruntimeconfig.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Coffee Machine\CoffeeMachineProject\obj\Debug\net8.0-windows\ref\Coffee Machine.dll
