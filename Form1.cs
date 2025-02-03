@@ -190,6 +190,15 @@ namespace Coffee_Machine
             tbChange.Text = "0.00";
 
             // ล้างค่าเงินทอน
+            tb_1000.Text = "0";
+            tb_500.Text = "0";
+            tb_100.Text = "0";
+            tb_50.Text = "0";
+            tb_10.Text = "0";
+            tb_5.Text = "0";
+            tb_1.Text = "0";
+            tb_050.Text = "0";
+            tb_025.Text = "0";
             tb_10.Text = "0";
             tb_5.Text = "0";
             tb_1.Text = "0";
