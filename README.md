@@ -6,4 +6,5 @@ UI CoffeeMachine 2 Page
 
 
 Class Diagram 
+
 ![image](https://github.com/user-attachments/assets/eebcf606-ce78-4c9d-a605-28de2d2f9506)
